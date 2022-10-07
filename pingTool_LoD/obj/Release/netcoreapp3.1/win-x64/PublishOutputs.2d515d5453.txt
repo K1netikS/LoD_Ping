@@ -1,0 +1,2 @@
+C:\Users\Administrator\source\repos\pingTool_LoD\pingTool_LoD\bin\Release\netcoreapp3.1\publish\pingTool_LoD.pdb
+C:\Users\Administrator\source\repos\pingTool_LoD\pingTool_LoD\bin\Release\netcoreapp3.1\publish\pingTool_LoD.exe

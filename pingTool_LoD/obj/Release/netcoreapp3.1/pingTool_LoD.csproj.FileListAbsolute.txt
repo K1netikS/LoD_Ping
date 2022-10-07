@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\pingTool_LoD\pingTool_LoD\bin\Release\netcoreapp3.1\pingTool_LoD.exe
+C:\Users\Administrator\source\repos\pingTool_LoD\pingTool_LoD\bin\Release\netcoreapp3.1\pingTool_LoD.deps.json
+C:\Users\Administrator\source\repos\pingTool_LoD\pingTool_LoD\bin\Release\netcoreapp3.1\pingTool_LoD.runtimeconfig.json
+C:\Users\Administrator\source\repos\pingTool_LoD\pingTool_LoD\bin\Release\netcoreapp3.1\pingTool_LoD.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\pingTool_LoD\pingTool_LoD\bin\Release\netcoreapp3.1\pingTool_LoD.dll
+C:\Users\Administrator\source\repos\pingTool_LoD\pingTool_LoD\bin\Release\netcoreapp3.1\pingTool_LoD.pdb
+C:\Users\Administrator\source\repos\pingTool_LoD\pingTool_LoD\obj\Release\netcoreapp3.1\pingTool_LoD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\pingTool_LoD\pingTool_LoD\obj\Release\netcoreapp3.1\pingTool_LoD.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\pingTool_LoD\pingTool_LoD\obj\Release\netcoreapp3.1\pingTool_LoD.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\pingTool_LoD\pingTool_LoD\obj\Release\netcoreapp3.1\pingTool_LoD.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\pingTool_LoD\pingTool_LoD\obj\Release\netcoreapp3.1\pingTool_LoD.dll
+C:\Users\Administrator\source\repos\pingTool_LoD\pingTool_LoD\obj\Release\netcoreapp3.1\pingTool_LoD.pdb
+C:\Users\Administrator\source\repos\pingTool_LoD\pingTool_LoD\obj\Release\netcoreapp3.1\pingTool_LoD.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\pingTool_LoD\pingTool_LoD\obj\Release\netcoreapp3.1\pingTool_LoD.csproj.AssemblyReference.cache

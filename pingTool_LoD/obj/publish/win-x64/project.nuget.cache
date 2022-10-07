@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ddIbHrwjPMaxw1tlIE8nPRl+HmYSeL6z4cYhVbyJw7GwaPnJh4cLoz5tK5094rjVfp9yW+6Cy17dUfPD6Y6Ylg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\pingTool_LoD\\pingTool_LoD\\pingTool_LoD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.28\\microsoft.netcore.app.runtime.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.28\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.28\\microsoft.aspnetcore.app.runtime.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
